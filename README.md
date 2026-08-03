@@ -1,2 +1,2 @@
-# geological-disaster-ledger-data-processing-
-基于PostgreSQL+PostGIS完成湖北十堰地质灾害隐患台账ETL数据治理，包含经纬度拆分清洗、重复点位去重、空间行政区匹配、多维度风险统计全套SQL实战代码，适配数据开发实习项目展示。
+# geological-disaster-ledger-data-processing
+湖北十堰地质灾害隐患台账ETL治理项目，基于PostGIS空间数据库完成GPS坐标清洗、重复隐患点位剔除、矢量空间关联行政区、灾害风险多维度聚合统计，结合Java实现Excel批量导入导出、台账业务接口开发，完整覆盖空间数据处理、业务开发全流程，用于实习项目复盘展示。
