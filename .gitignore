@@ -1,0 +1,27 @@
+# Maven编译缓存目录
+target/
+*.class
+*.jar
+*.war
+
+# IDE配置文件
+.idea/
+.vscode/
+*.iml
+*.suo
+*.sln
+.cproject
+.classpath
+
+# 运行日志
+logs/
+*.log
+*.out
+
+# 原始涉密业务Excel台账
+data/*.xlsx
+data/original/*
+
+# 系统缓存文件
+.DS_Store
+Thumbs.db
